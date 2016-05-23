@@ -1,4 +1,4 @@
-print "what is the string?"
+puts "what is the string?"
 string = gets.chomp
 string_length = string.length
 
